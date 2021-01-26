@@ -15,7 +15,7 @@ GEM
     nokogiri (1.11.0-x86-mingw32)
       racc (~> 1.4)
     racc (1.5.2)
-    rake (10.5.0)
+    rake (12.3.3)
     rspec (3.4.0)
       rspec-core (~> 3.4.0)
       rspec-expectations (~> 3.4.0)
